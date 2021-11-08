@@ -1,0 +1,21 @@
+INSERT INTO products (title, price, amount)
+VALUES
+('Apple', 2500, 1),
+('Orange', 2000, 1),
+('Banana', 1500, 1),
+('iPhone', 3000, 1),
+('iMac', 5000, 1),
+('iPad', 4000, 1),
+('Samsung TV', 5050, 1),
+('Samsung Phone', 1600, 1),
+('LG TV', 2500, 1),
+('LG Phone', 1500, 1),
+('Xiaomi TV', 1500, 1),
+('Xiaomi Phone', 700, 1),
+('Some Product1', 2800, 1),
+('Some Product2', 8002, 1),
+('Some Product3', 8200, 1),
+('Some Product4', 100, 1),
+('Some Product5', 6800, 1),
+('Some Product6', 3800, 1),
+('Some Product7', 7800, 1);
